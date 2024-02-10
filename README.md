@@ -1,4 +1,5 @@
 # PacQuest: Intelligent Pathfinding for Pacman
+![PacMan Search World](Picture1.png)
 
 Welcome to PacQuest! This repository contains an implementation of intelligent pathfinding algorithms for the classic game Pacman. In this version, 
 I've implemented Breadth-First Search (BFS), Depth-First Search (DFS), A* Search, and Uniform Cost Search (UCS) algorithms to help Pacman navigate through the maze and find the optimal path to collect all the food dots.
